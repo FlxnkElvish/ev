@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}Home - EV Finder{% endblock %}
+
+{% block content %}
+    <h1>Welcome to EV Finder</h1>
+    <p>Use this tool to explore, analyze, and find the perfect electric vehicle for your needs.</p>
+
+    <section>
+        <h2>🔍 EV Finder</h2>
+        <p>Use the <strong>EV Finder</strong> tool to filter electric vehicles based on <strong>range, price, and performance</strong>. 
+        Simply set your criteria and get a list of EVs that match your needs.</p>
+        <a href="{{ url_for('finder') }}" class="btn">Go to Finder</a>
+    </section>
+
+    <section>
+        <h2>📊 EV Data Analysis</h2>
+        <p>Explore interactive graphs on <strong>EV pricing, range, and acceleration</strong>. 
+        Analyze trends and compare models to see how they perform.</p>
+        <a href="{{ url_for('analysis') }}" class="btn">Go to Analysis</a>
+    </section>
+
+    <section>
+        <h2>📉 EV Data Graphs</h2>
+        <p>View detailed <strong>histograms</strong> that show the distribution of EV pricing, efficiency, and battery range. 
+        These visualizations help you understand market trends.</p>
+        <a href="{{ url_for('graphs') }}" class="btn">Go to Graphs</a>
+    </section>
+
+    <section>
+        <h2>📋 EV Recommendation Quiz</h2>
+        <p>Answer a few questions about your <strong>budget, preferred brand, range, and charging needs</strong>. 
+        Our system will recommend the best EVs that match your preferences.</p>
+        <a href="{{ url_for('questionnaire') }}" class="btn">Take the Quiz</a>
+    </section>
+
+    <section>
+        <h2>📁 View Saved Data</h2>
+        <p>See all user data and search history.</p>
+        <a href="{{ url_for('database_view') }}" class="btn">View Saved Data</a>
+    </section>
+
+    <section>
+        <h2>🗺️ Charging Station Map</h2>
+        <p>Explore all public EV charging stations in Ireland with details on address, charger types, and availability.</p>
+        <a href="{{ url_for('charging_map') }}" class="btn">View Charging Map</a>
+    </section>
+    
+
+    <style>
+        section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        h2 {
+            color: #007BFF;
+        }
+
+        .btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 15px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+{% endblock %}
+

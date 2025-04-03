@@ -1,0 +1,175 @@
+{% extends "base.html" %}
+
+{% block title %}EV Finder{% endblock %}
+
+{% block content %}
+    <h1>🔍 Find Your Ideal EV</h1>
+    <p>Use filters below to find electric vehicles that match your preferences.</p>
+
+    <!-- Search Form -->
+    <form method="POST" action="{{ url_for('finder') }}" class="ev-search-form">
+        
+        <!-- Minimum Range -->
+        <div class="ev-input-group">
+            <label for="range_min">🔋 Minimum Range (km):</label>
+            <input type="range" id="range_min" name="range_min" min="100" max="700" step="50" 
+                value="{{ request.form.get('range_min', 300) }}">
+            <span id="range-display">{{ request.form.get('range_min', 300) }} km 💰</span>
+        </div>
+
+        <!-- Maximum Budget -->
+        <div class="ev-input-group">
+            <label for="price_max">💰 Maximum Budget (€):</label>
+            <input type="range" id="price_max" name="price_max" min="20000" max="150000" step="5000" 
+                value="{{ request.form.get('price_max', 50000) }}">
+            <span id="price-display">€{{ request.form.get('price_max', 50000) }}</span>
+        </div>
+
+        <!-- Search Button -->
+        <button type="submit" class="ev-search-btn">🚀 Search</button>
+        <button type="button" id="getRecommendations">🧠 Get AI Recommendations</button>
+<div id="recommendations"></div>
+
+    </form>
+
+    <!-- Display Matching EVs -->
+    {% if cars %}
+        <h2>✅ Matching EVs</h2>
+        <table>
+            <tr>
+                <th>Model</th>
+                <th>Brand</th>
+                <th>Range (km)</th>
+                <th>Price (€)</th>
+                <th>Fast Charging (kW)</th>
+            </tr>
+            {% for car in cars %}
+            <tr>
+                <td>{{ car["Car_name"] }}</td>
+                <td>{{ car["Brand"] }}</td>
+                <td>{{ car["Range"] }}</td>
+                <td>{{ car["Price.DE."] }}</td>
+                <td>{{ car["Fast_charge"] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% elif request.method == 'POST' %}
+        <p style="color: red;">❌ No EVs match your filters. Try adjusting them.</p>
+    {% endif %}
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var rangeSlider = document.getElementById("range_min");
+            var rangeDisplay = document.getElementById("range-display");
+            rangeSlider.addEventListener("input", function () {
+                rangeDisplay.textContent = rangeSlider.value + " km";
+            });
+
+            var priceSlider = document.getElementById("price_max");
+            var priceDisplay = document.getElementById("price-display");
+            priceSlider.addEventListener("input", function () {
+                priceDisplay.textContent = "€" + priceSlider.value;
+            });
+        });
+    </script>
+
+    <style>
+       
+        .ev-search-form {
+            max-width: 500px;
+            margin: auto;
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        
+        .ev-input-group {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+
+     
+        .ev-input-group label {
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            flex: 1;
+        }
+
+        .ev-input-group input[type="range"] {
+            flex: 2;
+            margin: 0 10px;
+        }
+
+      
+        .ev-input-group span {
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        
+        .ev-search-btn {
+            background-color: #007BFF;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            width: 100%;
+            box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .ev-search-btn:hover {
+            background-color: #0056b3;
+        }
+
+    
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+
+   
+        @media (max-width: 480px) {
+            .ev-input-group {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .ev-input-group input[type="range"] {
+                width: 100%;
+            }
+
+            .ev-search-btn {
+                width: 100%;
+            }
+        }
+    </style>
+
+{% endblock %}

@@ -1,0 +1,23 @@
+{% if cars %}
+    <h2>✅ Matching EVs</h2>
+    <table border="1">
+        <tr>
+            <th>Model</th>
+            <th>Brand</th>
+            <th>Range (km)</th>
+            <th>Price (€)</th>
+            <th>Fast Charging (kW)</th>
+        </tr>
+        {% for car in cars %}
+        <tr>
+            <td>{{ car["Car_name"] }}</td>
+            <td>{{ car["Brand"] }}</td>
+            <td>{{ car["Range"] }}</td>
+            <td>{{ car["Price.DE."] }}</td>
+            <td>{{ car["Fast_charge"] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <p style="color: red;">❌ No EVs match your filters. Try adjusting them.</p>
+{% endif %}

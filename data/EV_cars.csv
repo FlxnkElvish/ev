@@ -1,0 +1,361 @@
+Battery,Car_name,Car_name_link,Efficiency,Fast_charge,Price.DE.,Range,Top_speed,acceleration..0.100.,Brand
+75.0,Tesla Model Y Long Range Dual Motor,https://ev-database.org/car/1619/Tesla-Model-Y-Long-Range-Dual-Motor,172,670.0,59017.0,435,217,5.0,Tesla
+57.5,Tesla Model 3,https://ev-database.org/car/1991/Tesla-Model-3,137,700.0,46220.0,420,201,6.1,Tesla
+60.5,BYD ATTO 3,https://ev-database.org/car/1782/BYD-ATTO-3,183,370.0,44625.0,330,160,7.3,BYD
+61.7,MG MG4 Electric 64 kWh,https://ev-database.org/car/1708/MG-MG4-Electric-64-kWh,171,630.0,39990.0,360,160,7.9,MG
+75.0,Tesla Model 3 Long Range Dual Motor,https://ev-database.org/car/1992/Tesla-Model-3-Long-Range-Dual-Motor,149,780.0,55220.0,505,201,4.4,Tesla
+57.5,Tesla Model Y,https://ev-database.org/car/1743/Tesla-Model-Y,164,580.0,47567.0,350,217,6.9,Tesla
+71.0,BMW iX xDrive40,https://ev-database.org/car/1472/BMW-iX-xDrive40,197,480.0,77300.0,360,200,6.1,BMW
+64.0,Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,173,550.0,41790.0,370,180,5.3,Volvo
+44.0,Citroen e-C3,https://ev-database.org/car/2039/Citroen-e-C3,176,320.0,23300.0,250,135,11.0,Citroen
+82.5,BYD SEAL 82.5 kWh AWD Excellence,https://ev-database.org/car/2002/BYD-SEAL-825-kWh-AWD-Excellence,170,530.0,53668.0,485,180,3.8,BYD
+80.7,BMW i4 eDrive40,https://ev-database.org/car/1252/BMW-i4-eDrive40,157,800.0,59200.0,515,190,5.7,BMW
+60.0,Renault Megane E-Tech EV60 220hp,https://ev-database.org/car/1521/Renault-Megane-E-Tech-EV60-220hp,158,530.0,46600.0,380,160,7.4,Renault
+64.7,BMW iX1 xDrive30,https://ev-database.org/car/1701/BMW-iX1-xDrive30,170,550.0,55000.0,380,180,5.6,BMW
+64.0,Hyundai Kona Electric 64 kWh,https://ev-database.org/car/1423/Hyundai-Kona-Electric-64-kWh,164,370.0,42900.0,390,167,7.9,Hyundai
+75.0,Tesla Model Y Performance,https://ev-database.org/car/1183/Tesla-Model-Y-Performance,181,640.0,63667.0,415,250,3.7,Tesla
+64.8,Kia Niro EV,https://ev-database.org/car/1666/Kia-Niro-EV,168,390.0,45690.0,385,167,7.8,Kia
+100.0,Rolls-Royce Spectre,https://ev-database.org/car/1765/Rolls-Royce-Spectre,220,540.0,56942.0,455,250,4.5,Rolls-Royce
+95.0,Tesla Model S Plaid,https://ev-database.org/car/1405/Tesla-Model-S-Plaid,170,780.0,110970.0,560,282,2.1,Tesla
+74.0,BMW iX3,https://ev-database.org/car/1535/BMW-iX3,192,520.0,67300.0,385,180,6.8,BMW
+90.0,Hongqi E-HS9 99 kWh,https://ev-database.org/car/1747/Hongqi-E-HS9-99-kWh,243,430.0,56942.0,370,200,4.9,Hongqi
+37.3,Fiat 500e Hatchback 42 kWh,https://ev-database.org/car/1285/Fiat-500e-Hatchback-42-kWh,159,390.0,34990.0,235,150,9.0,Fiat
+85.4,BYD HAN,https://ev-database.org/car/1784/BYD-HAN,180,450.0,70805.0,475,180,3.9,BYD
+95.0,Tesla Model S Dual Motor,https://ev-database.org/car/1404/Tesla-Model-S-Dual-Motor,165,800.0,95970.0,575,250,3.2,Tesla
+60.5,BYD DOLPHIN 60.4 kWh,https://ev-database.org/car/1919/BYD-DOLPHIN-604-kWh,178,340.0,35990.0,340,160,7.0,BYD
+58.0,CUPRA Born 150 kW - 58 kWh,https://ev-database.org/car/1516/CUPRA-Born-150-kW---58-kWh,166,470.0,39370.0,350,160,7.3,CUPRA
+25.0,Dacia Spring Electric 45,https://ev-database.org/car/1705/Dacia-Spring-Electric-45,152,180.0,22550.0,165,125,19.1,Dacia
+81.2,BMW i5 eDrive40 Sedan,https://ev-database.org/car/1906/BMW-i5-eDrive40-Sedan,171,710.0,70200.0,475,193,6.0,BMW
+80.7,BMW i4 M50,https://ev-database.org/car/1519/BMW-i4-M50,179,700.0,70800.0,450,225,3.9,BMW
+50.8,Opel Astra Electric,https://ev-database.org/car/1792/Opel-Astra-Electric,167,490.0,41990.0,305,170,9.2,Opel
+68.3,MG ZS EV Long Range,https://ev-database.org/car/1541/MG-ZS-EV-Long-Range,185,420.0,37990.0,370,175,8.4,MG
+76.6,Audi Q4 e-tron 40,https://ev-database.org/car/1490/Audi-Q4-e-tron-40,189,630.0,56942.0,405,160,8.5,Audi
+101.7,BMW i7 xDrive60,https://ev-database.org/car/1676/BMW-i7-xDrive60,199,760.0,139900.0,510,240,4.7,BMW
+64.0,Toyota bZ4X FWD,https://ev-database.org/car/1564/Toyota-bZ4X-FWD,188,510.0,47490.0,340,160,7.5,Toyota
+49.0,Volvo EX30 Single Motor,https://ev-database.org/car/1909/Volvo-EX30-Single-Motor,175,430.0,36590.0,280,180,5.7,Volvo
+62.0,Smart #1,https://ev-database.org/car/1667/Smart-1,185,520.0,42490.0,335,180,6.7,Smart
+74.0,Kia EV6 Long Range 2WD,https://ev-database.org/car/1481/Kia-EV6-Long-Range-2WD,180,1070.0,51990.0,410,185,7.3,Kia
+77.0,Volkswagen ID.7 Pro,https://ev-database.org/car/1839/Volkswagen-ID7-Pro,162,710.0,56995.0,475,180,6.5,Volkswagen
+105.2,BMW iX xDrive50,https://ev-database.org/car/1473/BMW-iX-xDrive50,208,680.0,100100.0,505,200,4.6,BMW
+106.0,Audi Q8 e-tron 55 quattro,https://ev-database.org/car/1770/Audi-Q8-e-tron-55-quattro,210,640.0,85300.0,505,200,5.6,Audi
+50.8,MG MG4 Electric 51 kWh,https://ev-database.org/car/1707/MG-MG4-Electric-51-kWh,169,390.0,34990.0,300,160,7.7,MG
+73.0,Peugeot e-3008 73 kWh,https://ev-database.org/car/2003/Peugeot-e-3008-73-kWh,183,460.0,56942.0,400,180,7.0,Peugeot
+82.5,BYD SEAL 82.5 kWh RWD Design,https://ev-database.org/car/2001/BYD-SEAL-825-kWh-RWD-Design,165,550.0,47578.0,500,180,5.9,BYD
+77.0,Skoda Enyaq 85,https://ev-database.org/car/2020/Skoda-Enyaq-85,169,680.0,48900.0,455,180,6.7,Skoda
+65.4,Hyundai Kona Electric 65 kWh,https://ev-database.org/car/1830/Hyundai-Kona-Electric-65-kWh,168,400.0,47190.0,390,170,8.8,Hyundai
+58.0,Volkswagen ID.3 Pro,https://ev-database.org/car/1831/Volkswagen-ID3-Pro,166,450.0,39995.0,350,160,7.3,Volkswagen
+52.0,Renault Zoe ZE50 R110,https://ev-database.org/car/1164/Renault-Zoe-ZE50-R110,165,230.0,36840.0,315,135,11.4,Renault
+96.0,Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,226,740.0,76490.0,425,200,6.0,Kia
+46.3,Peugeot e-208,https://ev-database.org/car/1583/Peugeot-e-208,162,460.0,39100.0,285,150,8.1,Peugeot
+85.0,Audi e-tron GT RS,https://ev-database.org/car/1153/Audi-e-tron-GT-RS,210,1000.0,146050.0,405,250,3.3,Audi
+21.3,Renault Twingo Electric,https://ev-database.org/car/1270/Renault-Twingo-Electric,158,520.0,28000.0,135,135,12.6,Renault
+77.0,CUPRA Born 170 kW - 77 kWh,https://ev-database.org/car/1518/CUPRA-Born-170-kW---77-kWh,171,630.0,46450.0,450,160,7.0,CUPRA
+86.4,BYD TANG,https://ev-database.org/car/1783/BYD-TANG,240,330.0,71400.0,360,180,4.6,BYD
+28.9,Mini Cooper SE,https://ev-database.org/car/1409/Mini-Cooper-SE,161,260.0,35700.0,180,150,7.3,Mini
+67.0,BMW i4 eDrive35,https://ev-database.org/car/1785/BMW-i4-eDrive35,156,580.0,56500.0,430,190,6.0,BMW
+74.0,Hyundai IONIQ 6 Long Range AWD,https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD,168,1150.0,61100.0,440,185,5.1,Hyundai
+74.0,Kia EV6 GT,https://ev-database.org/car/1471/Kia-EV6-GT,206,940.0,72990.0,360,260,3.5,Kia
+74.0,Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,149,1290.0,54000.0,495,185,7.4,Hyundai
+50.8,Jeep Avenger Electric,https://ev-database.org/car/1816/Jeep-Avenger-Electric,164,500.0,37000.0,310,150,9.0,Jeep
+87.0,Nissan Ariya 87kWh,https://ev-database.org/car/1302/Nissan-Ariya-87kWh,193,540.0,58990.0,450,160,7.6,Nissan
+39.0,Nissan Leaf,https://ev-database.org/car/1656/Nissan-Leaf,166,230.0,33400.0,235,144,7.9,Nissan
+77.0,Volkswagen ID. Buzz Pro,https://ev-database.org/car/1651/Volkswagen-ID-Buzz-Pro,223,480.0,64581.0,345,145,10.2,Volkswagen
+70.5,Mercedes EQA 250+,https://ev-database.org/car/1698/Mercedes-EQA-250plus,168,580.0,56942.0,420,160,8.6,Mercedes
+77.0,Volkswagen ID.4 Pro,https://ev-database.org/car/2028/Volkswagen-ID4-Pro,177,650.0,46335.0,435,180,6.7,Volkswagen
+46.3,Opel Corsa-e,https://ev-database.org/car/1585/Opel-Corsa-e,157,470.0,56942.0,295,150,8.1,Opel
+94.0,Zeekr 001 Performance AWD,https://ev-database.org/car/1934/Zeekr-001-Performance-AWD,186,700.0,63970.0,505,200,3.8,Zeekr
+46.3,Citroen e-C4,https://ev-database.org/car/1587/Citroen-e-C4,160,460.0,36040.0,290,150,9.7,Citroen
+94.0,Polestar 4 Long Range Dual Motor,https://ev-database.org/car/1842/Polestar-4-Long-Range-Dual-Motor,202,690.0,56942.0,465,200,3.8,Polestar
+118.0,Lucid Air Dream Edition R,https://ev-database.org/car/1696/Lucid-Air-Dream-Edition-R,172,870.0,218000.0,685,270,2.9,Lucid
+74.4,MG MG4 Electric 77 kWh,https://ev-database.org/car/1973/MG-MG4-Electric-77-kWh,175,430.0,45990.0,425,180,6.5,MG
+98.0,Peugeot e-3008 98 kWh Long Range,https://ev-database.org/car/2005/Peugeot-e-3008-98-kWh-Long-Range,188,680.0,56942.0,520,180,7.0,Peugeot
+80.0,Hyundai IONIQ 5 N,https://ev-database.org/car/2044/Hyundai-IONIQ-5-N,208,950.0,56942.0,385,260,3.4,Hyundai
+74.0,Hyundai IONIQ 5 Long Range 2WD,https://ev-database.org/car/1662/Hyundai-IONIQ-5-Long-Range-2WD,190,1020.0,47900.0,390,185,7.3,Hyundai
+57.5,Tesla Model Y,https://ev-database.org/car/1974/Tesla-Model-Y,164,810.0,47567.0,350,217,6.9,Tesla
+61.9,Honda e:Ny1,https://ev-database.org/car/1940/Honda-eNy1,185,300.0,47590.0,335,160,7.6,Honda
+44.9,BYD DOLPHIN 44.9 kWh Active,https://ev-database.org/car/1917/BYD-DOLPHIN-449-kWh-Active,176,260.0,29990.0,255,150,10.0,BYD
+109.0,Lotus Eletre,https://ev-database.org/car/1767/Lotus-Eletre,220,1040.0,95990.0,495,250,4.5,Lotus
+79.0,Polestar 2 Long Range Single Motor,https://ev-database.org/car/1818/Polestar-2-Long-Range-Single-Motor,168,700.0,54475.0,470,205,6.2,Polestar
+64.0,Volvo EX30 Twin Motor Performance,https://ev-database.org/car/1911/Volvo-EX30-Twin-Motor-Performance,178,540.0,48490.0,360,180,3.6,Volvo
+64.7,BMW iX1 eDrive20,https://ev-database.org/car/1996/BMW-iX1-eDrive20,166,560.0,47900.0,390,170,8.3,BMW
+54.0,Hyundai IONIQ 6 Standard Range 2WD,https://ev-database.org/car/1717/Hyundai-IONIQ-6-Standard-Range-2WD,148,900.0,43900.0,365,185,8.8,Hyundai
+86.0,Volkswagen ID.7 Pro S,https://ev-database.org/car/1840/Volkswagen-ID7-Pro-S,165,800.0,56942.0,520,180,7.0,Volkswagen
+46.3,Opel Mokka-e,https://ev-database.org/car/1586/Opel-Mokka-e,178,420.0,40650.0,260,150,9.2,Opel
+66.5,Mercedes EQB 350 4MATIC,https://ev-database.org/car/1493/Mercedes-EQB-350-4MATIC,196,490.0,56942.0,340,160,6.2,Mercedes
+61.7,MG MG4 Electric XPOWER,https://ev-database.org/car/1944/MG-MG4-Electric-XPOWER,193,560.0,46990.0,320,200,3.8,MG
+62.0,Smart #1 Brabus,https://ev-database.org/car/1748/Smart-1-Brabus,197,490.0,48990.0,315,180,3.9,Smart
+64.0,Subaru Solterra AWD,https://ev-database.org/car/1567/Subaru-Solterra-AWD,200,480.0,57490.0,320,160,6.9,Subaru
+108.4,Mercedes EQS 450+,https://ev-database.org/car/2008/Mercedes-EQS-450plus,171,950.0,109551.0,635,210,6.1,Mercedes
+106.5,Fisker Ocean One,https://ev-database.org/car/1712/Fisker-Ocean-One,201,630.0,69950.0,530,205,3.9,Fisker
+79.0,Volvo XC40 Recharge Single Motor ER,https://ev-database.org/car/1797/Volvo-XC40-Recharge-Single-Motor-ER,195,600.0,53000.0,405,180,7.3,Volvo
+94.0,Zeekr 001 Long Range RWD,https://ev-database.org/car/1933/Zeekr-001-Long-Range-RWD,177,740.0,60970.0,530,200,7.2,Zeekr
+77.0,Skoda Enyaq Coupe 85,https://ev-database.org/car/2024/Skoda-Enyaq-Coupe-85,159,720.0,51150.0,485,180,6.7,Skoda
+81.2,BMW i5 M60 xDrive Sedan,https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan,191,630.0,99500.0,425,230,3.8,BMW
+85.0,Audi e-tron GT quattro,https://ev-database.org/car/1420/Audi-e-tron-GT-quattro,202,1030.0,106050.0,420,245,4.1,Audi
+74.0,Kia EV6 Long Range AWD,https://ev-database.org/car/1482/Kia-EV6-Long-Range-AWD,185,1050.0,55980.0,400,185,5.2,Kia
+57.4,MG MG5 Electric Long Range,https://ev-database.org/car/1474/MG-MG5-Electric-Long-Range,171,330.0,38490.0,335,185,7.7,MG
+30.0,Mazda MX-30,https://ev-database.org/car/1680/Mazda-MX-30,176,210.0,35990.0,170,140,9.7,Mazda
+94.0,Polestar 4 Long Range Single Motor,https://ev-database.org/car/1841/Polestar-4-Long-Range-Single-Motor,190,740.0,56942.0,495,180,7.4,Polestar
+84.0,Maxus MIFA 9,https://ev-database.org/car/1837/Maxus-MIFA-9,230,330.0,68990.0,365,180,9.2,Maxus
+39.2,Hyundai Kona Electric 39 kWh,https://ev-database.org/car/1422/Hyundai-Kona-Electric-39-kWh,160,210.0,36400.0,245,155,9.9,Hyundai
+106.5,Fisker Ocean Ultra,https://ev-database.org/car/1710/Fisker-Ocean-Ultra,199,640.0,57000.0,535,200,4.2,Fisker
+52.0,Renault Zoe ZE50 R135,https://ev-database.org/car/1205/Renault-Zoe-ZE50-R135,168,230.0,37840.0,310,140,9.5,Renault
+96.0,Kia EV9 99.8 kWh RWD,https://ev-database.org/car/1834/Kia-EV9-998-kWh-RWD,213,780.0,72490.0,450,185,9.4,Kia
+64.0,Lexus RZ 450e,https://ev-database.org/car/1677/Lexus-RZ-450e,200,480.0,68000.0,320,160,5.6,Lexus
+95.0,Tesla Model X Dual Motor,https://ev-database.org/car/1407/Tesla-Model-X-Dual-Motor,200,660.0,100970.0,475,250,3.9,Tesla
+70.5,Mercedes EQB 250+,https://ev-database.org/car/1988/Mercedes-EQB-250plus,170,560.0,53514.0,415,160,8.9,Mercedes
+74.0,Hyundai IONIQ 5 Long Range AWD,https://ev-database.org/car/1663/Hyundai-IONIQ-5-Long-Range-AWD,192,1010.0,59200.0,385,185,5.1,Hyundai
+50.8,Peugeot e-308,https://ev-database.org/car/1744/Peugeot-e-308,169,450.0,44765.0,300,170,9.8,Peugeot
+95.0,Tesla Model X Plaid,https://ev-database.org/car/1408/Tesla-Model-X-Plaid,209,630.0,115970.0,455,262,2.6,Tesla
+79.0,Volvo XC40 Recharge Twin Motor,https://ev-database.org/car/1798/Volvo-XC40-Recharge-Twin-Motor,203,580.0,59950.0,390,180,4.8,Volvo
+54.0,Hyundai IONIQ 5 Standard Range 2WD,https://ev-database.org/car/1476/Hyundai-IONIQ-5-Standard-Range-2WD,183,720.0,43900.0,295,185,8.5,Hyundai
+77.0,Volkswagen ID.5 Pro,https://ev-database.org/car/2031/Volkswagen-ID5-Pro,169,680.0,48970.0,455,180,6.7,Volkswagen
+66.5,Mercedes EQB 300 4MATIC,https://ev-database.org/car/1559/Mercedes-EQB-300-4MATIC,196,490.0,56942.0,340,160,8.0,Mercedes
+106.0,Audi Q8 e-tron Sportback 55 quattro,https://ev-database.org/car/1772/Audi-Q8-e-tron-Sportback-55-quattro,202,660.0,87550.0,525,200,5.6,Audi
+64.7,BMW iX2 xDrive30,https://ev-database.org/car/2040/BMW-iX2-xDrive30,170,550.0,56500.0,380,180,5.6,BMW
+77.0,Audi Q4 e-tron 45,https://ev-database.org/car/2013/Audi-Q4-e-tron-45,183,630.0,52950.0,420,180,6.7,Audi
+64.0,Zeekr X Privilege AWD,https://ev-database.org/car/1937/Zeekr-X-Privilege-AWD,183,520.0,50470.0,350,180,3.8,Zeekr
+105.2,BMW iX M60,https://ev-database.org/car/1590/BMW-iX-M60,217,650.0,136100.0,485,250,3.8,BMW
+50.8,Fiat 600e,https://ev-database.org/car/1945/Fiat-600e,167,490.0,36490.0,305,150,9.0,Fiat
+62.0,Smart #3,https://ev-database.org/car/1999/Smart-3,175,550.0,43490.0,355,180,6.7,Smart
+70.0,MG Marvel R,https://ev-database.org/car/1524/MG-Marvel-R,192,400.0,46990.0,365,200,7.9,MG
+59.0,Nissan Leaf e+,https://ev-database.org/car/1657/Nissan-Leaf-eplus,174,240.0,41100.0,340,157,6.9,Nissan
+79.0,Polestar 2 Long Range Dual Motor,https://ev-database.org/car/1819/Polestar-2-Long-Range-Dual-Motor,176,670.0,58775.0,450,205,4.5,Polestar
+25.0,Dacia Spring Electric 65 Extreme,https://ev-database.org/car/1813/Dacia-Spring-Electric-65-Extreme,156,170.0,24550.0,160,125,13.7,Dacia
+90.6,Mercedes EQE 350+,https://ev-database.org/car/2006/Mercedes-EQE-350plus,171,790.0,56942.0,530,210,6.4,Mercedes
+77.0,Volkswagen ID.3 Pro S - 4 Seats,https://ev-database.org/car/1832/Volkswagen-ID3-Pro-S---4-Seats,169,680.0,47595.0,455,160,7.9,Volkswagen
+108.4,Mercedes EQS SUV 580 4MATIC,https://ev-database.org/car/1675/Mercedes-EQS-SUV-580-4MATIC,224,720.0,135434.0,485,210,4.6,Mercedes
+96.0,Kia EV9 99.8 kWh AWD GT-Line,https://ev-database.org/car/1993/Kia-EV9-998-kWh-AWD-GT-Line,231,720.0,82380.0,415,200,5.3,Kia
+60.0,Renault Megane E-Tech EV60 130hp,https://ev-database.org/car/1588/Renault-Megane-E-Tech-EV60-130hp,158,530.0,47000.0,380,150,10.5,Renault
+58.0,Skoda Enyaq 60,https://ev-database.org/car/2019/Skoda-Enyaq-60,171,460.0,44200.0,340,160,8.7,Skoda
+46.3,Citroen e-C4 X,https://ev-database.org/car/1706/Citroen-e-C4-X,162,460.0,37540.0,285,150,9.7,Citroen
+91.0,Ford Mustang Mach-E ER RWD,https://ev-database.org/car/2035/Ford-Mustang-Mach-E-ER-RWD,190,420.0,58500.0,480,180,7.0,Ford
+112.0,Lucid Air Grand Touring,https://ev-database.org/car/1316/Lucid-Air-Grand-Touring,168,840.0,159000.0,665,270,3.0,Lucid
+66.0,Volvo XC40 Recharge Single Motor,https://ev-database.org/car/1796/Volvo-XC40-Recharge-Single-Motor,191,420.0,47500.0,345,180,7.3,Volvo
+67.0,Polestar 2 Standard Range Single Motor,https://ev-database.org/car/1817/Polestar-2-Standard-Range-Single-Motor,165,480.0,50775.0,405,205,6.4,Polestar
+50.8,Peugeot e-2008 54 kWh,https://ev-database.org/car/1947/Peugeot-e-2008-54-kWh,169,480.0,40050.0,300,150,9.1,Peugeot
+75.8,XPENG G9 RWD Standard Range,https://ev-database.org/car/1824/XPENG-G9-RWD-Standard-Range,190,840.0,56942.0,400,200,6.4,XPENG
+45.4,ORA Funky Cat 48 kWh,https://ev-database.org/car/1781/ORA-Funky-Cat-48-kWh,175,240.0,38990.0,260,160,8.3,ORA
+76.6,Audi Q4 e-tron 50 quattro,https://ev-database.org/car/1491/Audi-Q4-e-tron-50-quattro,199,550.0,56942.0,385,180,6.2,Audi
+76.5,Hongqi E-HS9 84 kWh,https://ev-database.org/car/1746/Hongqi-E-HS9-84-kWh,239,440.0,56942.0,320,200,6.5,Hongqi
+107.0,Polestar 3 Long Range Dual motor,https://ev-database.org/car/1758/Polestar-3-Long-Range-Dual-motor,218,640.0,88600.0,490,210,5.0,Polestar
+70.0,MG Marvel R Performance,https://ev-database.org/car/1475/MG-Marvel-R-Performance,200,380.0,50990.0,350,200,4.9,MG
+49.0,MG ZS EV Standard Range,https://ev-database.org/car/1540/MG-ZS-EV-Standard-Range,185,250.0,33990.0,265,175,8.6,MG
+77.0,CUPRA Tavascan VZ,https://ev-database.org/car/1972/CUPRA-Tavascan-VZ,179,640.0,56942.0,430,180,5.6,CUPRA
+64.0,Toyota bZ4X AWD,https://ev-database.org/car/1565/Toyota-bZ4X-AWD,203,470.0,57390.0,315,160,6.9,Toyota
+89.0,Audi Q8 e-tron 50 quattro,https://ev-database.org/car/1769/Audi-Q8-e-tron-50-quattro,209,660.0,74400.0,425,200,6.0,Audi
+63.0,Nissan Ariya 63kWh,https://ev-database.org/car/1301/Nissan-Ariya-63kWh,188,450.0,47490.0,335,160,7.5,Nissan
+54.0,Kia EV6 Standard Range 2WD,https://ev-database.org/car/1480/Kia-EV6-Standard-Range-2WD,177,750.0,46990.0,305,185,8.5,Kia
+118.0,Lucid Air Dream Edition P,https://ev-database.org/car/1098/Lucid-Air-Dream-Edition-P,177,840.0,218000.0,665,270,2.7,Lucid
+107.0,Volvo EX90 Twin Motor,https://ev-database.org/car/1775/Volvo-EX90-Twin-Motor,230,610.0,105550.0,465,180,5.9,Volvo
+66.5,Mercedes EQA 250,https://ev-database.org/car/1984/Mercedes-EQA-250,164,580.0,50777.0,405,160,8.6,Mercedes
+90.0,Mercedes EQV 300 Long,https://ev-database.org/car/1240/Mercedes-EQV-300-Long,290,310.0,71626.0,310,160,12.1,Mercedes
+70.5,NIO ET7 75 kWh,https://ev-database.org/car/1751/NIO-ET7-75-kWh,176,540.0,81900.0,400,200,3.8,NIO
+91.0,Ford Mustang Mach-E ER AWD,https://ev-database.org/car/2037/Ford-Mustang-Mach-E-ER-AWD,204,390.0,65900.0,445,180,5.8,Ford
+52.0,Volkswagen ID.4 Pure,https://ev-database.org/car/2027/Volkswagen-ID4-Pure,182,360.0,40335.0,285,160,9.0,Volkswagen
+123.0,VinFast VF 9 Extended Range,https://ev-database.org/car/1811/VinFast-VF-9-Extended-Range,237,520.0,89790.0,520,200,6.5,VinFast
+90.0,NIO ET5 100 kWh,https://ev-database.org/car/1787/NIO-ET5-100-kWh,180,520.0,68500.0,500,200,4.0,NIO
+77.0,Skoda Enyaq 85x,https://ev-database.org/car/2021/Skoda-Enyaq-85x,175,660.0,51150.0,440,180,6.6,Skoda
+93.1,XPENG G9 RWD Long Range,https://ev-database.org/car/1825/XPENG-G9-RWD-Long-Range,190,1020.0,56942.0,490,200,6.4,XPENG
+79.0,Volvo C40 Recharge Twin Motor,https://ev-database.org/car/1801/Volvo-C40-Recharge-Twin-Motor,198,600.0,61400.0,400,180,4.7,Volvo
+75.0,Fisker Ocean Sport,https://ev-database.org/car/1709/Fisker-Ocean-Sport,197,480.0,41560.0,380,160,7.4,Fisker
+96.0,Mercedes EQE SUV 500 4MATIC,https://ev-database.org/car/2048/Mercedes-EQE-SUV-500-4MATIC,211,630.0,99841.0,455,210,4.9,Mercedes
+49.0,Mini Cooper SE,https://ev-database.org/car/1998/Mini-Cooper-SE,158,440.0,36900.0,310,170,6.7,Mini
+72.6,Ford Mustang Mach-E SR RWD,https://ev-database.org/car/2034/Ford-Mustang-Mach-E-SR-RWD,191,460.0,55800.0,380,180,7.3,Ford
+79.0,Volvo C40 Recharge Single Motor ER,https://ev-database.org/car/1800/Volvo-C40-Recharge-Single-Motor-ER,188,630.0,54450.0,420,180,7.3,Volvo
+84.7,Jaguar I-Pace EV400,https://ev-database.org/car/1812/Jaguar-I-Pace-EV400,223,360.0,92400.0,380,200,4.8,Jaguar
+77.0,Skoda Enyaq Coupe RS,https://ev-database.org/car/2026/Skoda-Enyaq-Coupe-RS,169,680.0,63300.0,455,180,5.5,Skoda
+82.7,XPENG P7 Wing Edition,https://ev-database.org/car/1823/XPENG-P7-Wing-Edition,178,650.0,56942.0,465,200,4.1,XPENG
+106.5,Fisker Ocean Extreme,https://ev-database.org/car/1711/Fisker-Ocean-Extreme,201,630.0,69950.0,530,205,3.9,Fisker
+89.0,Mercedes EQE 300,https://ev-database.org/car/1897/Mercedes-EQE-300,170,660.0,67187.0,525,210,7.3,Mercedes
+28.5,Honda e Advance,https://ev-database.org/car/1233/Honda-e-Advance,168,180.0,39900.0,170,145,8.3,Honda
+109.0,Lotus Eletre R,https://ev-database.org/car/1768/Lotus-Eletre-R,240,950.0,150990.0,455,260,2.9,Lotus
+62.0,Smart #3 Brabus,https://ev-database.org/car/2000/Smart-3-Brabus,188,510.0,50990.0,330,180,3.7,Smart
+50.8,Peugeot e-308 SW,https://ev-database.org/car/1745/Peugeot-e-308-SW,169,450.0,45765.0,300,150,9.0,Peugeot
+89.0,Mercedes EQE SUV 350 4MATIC,https://ev-database.org/car/1761/Mercedes-EQE-SUV-350-4MATIC,209,540.0,56942.0,425,210,6.6,Mercedes
+108.4,Mercedes EQS SUV 450+,https://ev-database.org/car/1673/Mercedes-EQS-SUV-450plus,217,750.0,110801.0,500,210,6.7,Mercedes
+44.9,BYD DOLPHIN 44.9 kWh Boost,https://ev-database.org/car/1918/BYD-DOLPHIN-449-kWh-Boost,176,260.0,32740.0,255,160,8.0,BYD
+48.1,Opel Corsa Electric 51 kWh,https://ev-database.org/car/1942/Opel-Corsa-Electric-51-kWh,153,490.0,38045.0,315,150,8.1,Opel
+56.0,SsangYong Korando e-Motion,https://ev-database.org/car/1589/SsangYong-Korando-e-Motion,193,330.0,40490.0,290,156,8.5,SsangYong
+77.0,Volkswagen ID.4 Pro 4MOTION,https://ev-database.org/car/2029/Volkswagen-ID4-Pro-4MOTION,181,630.0,49020.0,425,180,6.6,Volkswagen
+66.5,Mercedes EQA 350 4MATIC,https://ev-database.org/car/1496/Mercedes-EQA-350-4MATIC,190,500.0,56942.0,350,160,6.0,Mercedes
+40.0,Renault Megane E-Tech EV40 130hp,https://ev-database.org/car/1536/Renault-Megane-E-Tech-EV40-130hp,154,370.0,42000.0,260,150,10.0,Renault
+47.0,Smart #1 Pro,https://ev-database.org/car/2041/Smart-1-Pro,184,330.0,37490.0,255,180,6.7,Smart
+50.8,Citroen e-C4 54 kWh,https://ev-database.org/car/1938/Citroen-e-C4-54-kWh,154,470.0,41540.0,330,150,10.0,Citroen
+92.0,Lucid Air Touring,https://ev-database.org/car/1317/Lucid-Air-Touring,159,970.0,129000.0,580,250,3.2,Lucid
+77.0,CUPRA Tavascan Endurance,https://ev-database.org/car/1971/CUPRA-Tavascan-Endurance,171,670.0,56942.0,450,180,6.8,CUPRA
+107.0,Volvo EX90 Twin Motor Performance,https://ev-database.org/car/1776/Volvo-EX90-Twin-Motor-Performance,238,590.0,110650.0,450,180,4.9,Volvo
+46.3,Peugeot e-2008 50 kWh,https://ev-database.org/car/1946/Peugeot-e-2008-50-kWh,171,430.0,56942.0,270,150,9.9,Peugeot
+77.0,Volkswagen ID.4 GTX,https://ev-database.org/car/2030/Volkswagen-ID4-GTX,183,630.0,53255.0,420,180,5.4,Volkswagen
+66.5,Mercedes EQA 350 4MATIC,https://ev-database.org/car/1987/Mercedes-EQA-350-4MATIC,187,510.0,56424.0,355,160,6.0,Mercedes
+77.0,Skoda Enyaq Coupe 85x,https://ev-database.org/car/2025/Skoda-Enyaq-Coupe-85x,164,700.0,53400.0,470,180,6.6,Skoda
+70.5,Mercedes EQA 250+,https://ev-database.org/car/1985/Mercedes-EQA-250plus,164,600.0,52205.0,430,160,8.6,Mercedes
+74.0,Genesis GV60 Premium,https://ev-database.org/car/1647/Genesis-GV60-Premium,190,1020.0,56942.0,390,185,7.8,Genesis
+108.4,Mercedes EQS 580 4MATIC,https://ev-database.org/car/2011/Mercedes-EQS-580-4MATIC,184,880.0,141705.0,590,210,4.3,Mercedes
+45.0,Renault Kangoo E-Tech Electric,https://ev-database.org/car/1802/Renault-Kangoo-E-Tech-Electric,205,230.0,39300.0,220,132,12.6,Renault
+48.1,Peugeot e-208 51 kWh,https://ev-database.org/car/1949/Peugeot-e-208-51-kWh,155,480.0,36775.0,310,150,8.2,Peugeot
+60.0,Aiways U5,https://ev-database.org/car/1678/Aiways-U5,190,380.0,39563.0,315,150,7.5,Aiways
+48.4,Hyundai Kona Electric 48 kWh,https://ev-database.org/car/1829/Hyundai-Kona-Electric-48-kWh,167,280.0,41990.0,290,160,7.8,Hyundai
+77.0,Audi Q4 e-tron 55 quattro,https://ev-database.org/car/2015/Audi-Q4-e-tron-55-quattro,195,590.0,59000.0,395,180,5.4,Audi
+93.1,XPENG G9 AWD Performance,https://ev-database.org/car/1826/XPENG-G9-AWD-Performance,196,990.0,56942.0,475,200,3.9,XPENG
+76.6,Audi Q4 Sportback e-tron 40,https://ev-database.org/car/1528/Audi-Q4-Sportback-e-tron-40,180,660.0,56942.0,425,160,8.5,Audi
+90.0,NIO ET7 100 kWh,https://ev-database.org/car/1752/NIO-ET7-100-kWh,178,530.0,90900.0,505,200,3.8,NIO
+66.5,Mercedes EQA 300 4MATIC,https://ev-database.org/car/1495/Mercedes-EQA-300-4MATIC,190,500.0,56942.0,350,160,7.7,Mercedes
+77.0,Audi Q4 Sportback e-tron 45,https://ev-database.org/car/2016/Audi-Q4-Sportback-e-tron-45,177,650.0,54950.0,435,180,6.7,Audi
+90.6,Mercedes EQE SUV 500 4MATIC,https://ev-database.org/car/1762/Mercedes-EQE-SUV-500-4MATIC,208,650.0,56942.0,435,210,4.9,Mercedes
+64.0,Kia e-Soul 64 kWh,https://ev-database.org/car/1749/Kia-e-Soul-64-kWh,173,350.0,46950.0,370,167,7.9,Kia
+101.7,BMW i7 eDrive50,https://ev-database.org/car/1905/BMW-i7-eDrive50,196,780.0,115700.0,520,205,5.5,BMW
+106.0,Audi SQ8 e-tron,https://ev-database.org/car/1773/Audi-SQ8-e-tron,233,570.0,95800.0,455,210,4.5,Audi
+83.7,Porsche Taycan GTS,https://ev-database.org/car/1560/Porsche-Taycan-GTS,186,1110.0,139906.0,450,250,3.7,Porsche
+82.7,XPENG P7 RWD Long Range,https://ev-database.org/car/1821/XPENG-P7-RWD-Long-Range,167,690.0,56942.0,495,200,6.7,XPENG
+83.7,Porsche Taycan Plus,https://ev-database.org/car/1924/Porsche-Taycan-Plus,173,1190.0,98863.0,485,230,5.4,Porsche
+101.7,BMW i7 M70 xDrive,https://ev-database.org/car/1838/BMW-i7-M70-xDrive,208,730.0,181800.0,490,250,3.7,BMW
+50.8,Opel Astra Sports Tourer Electric,https://ev-database.org/car/1793/Opel-Astra-Sports-Tourer-Electric,169,480.0,43490.0,300,170,9.3,Opel
+66.0,Volvo C40 Recharge Single Motor,https://ev-database.org/car/1799/Volvo-C40-Recharge-Single-Motor,186,430.0,47500.0,355,180,7.3,Volvo
+92.0,Lucid Air Pure AWD,https://ev-database.org/car/1318/Lucid-Air-Pure-AWD,156,990.0,109000.0,590,200,4.2,Lucid
+77.0,Volkswagen ID.5 GTX,https://ev-database.org/car/2033/Volkswagen-ID5-GTX,179,640.0,56455.0,430,180,5.5,Volkswagen
+83.0,Maserati GranTurismo Folgore,https://ev-database.org/car/1803/Maserati-GranTurismo-Folgore,195,990.0,56942.0,425,320,2.7,Maserati
+64.7,Mini Countryman E,https://ev-database.org/car/1994/Mini-Countryman-E,170,550.0,56942.0,380,170,8.6,Mini
+21.3,Fiat 500e Hatchback 24 kWh,https://ev-database.org/car/1327/Fiat-500e-Hatchback-24-kWh,158,230.0,30990.0,135,135,9.0,Fiat
+46.3,Opel Corsa Electric 50 kWh,https://ev-database.org/car/1941/Opel-Corsa-Electric-50-kWh,157,470.0,34650.0,295,150,8.7,Opel
+107.0,Polestar 3 Long Range Performance,https://ev-database.org/car/1759/Polestar-3-Long-Range-Performance,228,610.0,95200.0,470,210,4.7,Polestar
+46.3,Citroen e-Berlingo M 50 kWh,https://ev-database.org/car/1546/Citroen-e-Berlingo-M-50-kWh,226,330.0,37790.0,205,135,11.7,Citroen
+90.0,Mercedes eVito Tourer Long 90 kWh,https://ev-database.org/car/1615/Mercedes-eVito-Tourer-Long-90-kWh,290,310.0,64248.0,310,160,12.0,Mercedes
+87.0,Nissan Ariya e-4ORCE 87kWh - 225 kW,https://ev-database.org/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,215,480.0,61990.0,405,200,5.7,Nissan
+90.0,NIO EL6 100 kWh,https://ev-database.org/car/1922/NIO-EL6-100-kWh,205,460.0,74500.0,440,200,4.5,NIO
+50.8,Citroen e-C4 X 54 kWh,https://ev-database.org/car/1939/Citroen-e-C4-X-54-kWh,154,470.0,41540.0,330,150,10.0,Citroen
+50.8,DS 3 E-Tense,https://ev-database.org/car/1791/DS-3-E-Tense,169,480.0,40540.0,300,150,9.0,DS
+108.4,Mercedes EQS 450 4MATIC,https://ev-database.org/car/2009/Mercedes-EQS-450-4MATIC,178,910.0,113359.0,610,210,5.6,Mercedes
+51.0,Seres 3,https://ev-database.org/car/1804/Seres-3,196,240.0,56942.0,260,155,8.9,Seres
+46.0,MG MG5 Electric Standard Range,https://ev-database.org/car/1646/MG-MG5-Electric-Standard-Range,174,320.0,35490.0,265,185,7.7,MG
+96.0,Mercedes EQE SUV 350+,https://ev-database.org/car/2046/Mercedes-EQE-SUV-350plus,202,660.0,86811.0,475,210,6.9,Mercedes
+89.0,Mercedes EQE 350 4MATIC,https://ev-database.org/car/1899/Mercedes-EQE-350-4MATIC,176,640.0,74149.0,505,210,6.3,Mercedes
+83.7,Porsche Taycan Turbo S,https://ev-database.org/car/1928/Porsche-Taycan-Turbo-S,195,1060.0,197740.0,430,260,2.8,Porsche
+46.3,Peugeot e-Rifter Long 50 kWh,https://ev-database.org/car/1523/Peugeot-e-Rifter-Long-50-kWh,232,320.0,42440.0,200,135,11.7,Peugeot
+90.0,NIO EL7 100 kWh,https://ev-database.org/car/1789/NIO-EL7-100-kWh,209,450.0,94900.0,430,200,3.9,NIO
+91.0,Ford Mustang Mach-E GT,https://ev-database.org/car/2038/Ford-Mustang-Mach-E-GT,214,380.0,77300.0,425,200,3.7,Ford
+64.7,Mini Countryman SE ALL4,https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4,175,530.0,56942.0,370,180,5.6,Mini
+64.0,Zeekr X Long Range RWD,https://ev-database.org/car/1936/Zeekr-X-Long-Range-RWD,178,540.0,45970.0,360,180,5.6,Zeekr
+95.0,Maserati Grecale Folgore,https://ev-database.org/car/1843/Maserati-Grecale-Folgore,235,440.0,56942.0,405,220,4.1,Maserati
+94.0,Zeekr 001 Privilege AWD,https://ev-database.org/car/1935/Zeekr-001-Privilege-AWD,188,700.0,68970.0,500,200,3.8,Zeekr
+90.0,NIO ET5 Touring 100 kWh,https://ev-database.org/car/1916/NIO-ET5-Touring-100-kWh,186,500.0,68500.0,485,200,4.0,NIO
+79.0,Polestar 2 Long Range Performance,https://ev-database.org/car/1820/Polestar-2-Long-Range-Performance,176,670.0,65275.0,450,205,4.2,Polestar
+66.5,Mercedes EQB 300 4MATIC,https://ev-database.org/car/1989/Mercedes-EQB-300-4MATIC,193,500.0,55519.0,345,160,8.0,Mercedes
+101.0,Volvo EX90 Single Motor,https://ev-database.org/car/1950/Volvo-EX90-Single-Motor,220,600.0,56942.0,460,180,8.4,Volvo
+45.0,Nissan Townstar EV Passenger,https://ev-database.org/car/2042/Nissan-Townstar-EV-Passenger,200,230.0,39990.0,225,132,12.6,Nissan
+59.3,ORA Funky Cat 63 kWh,https://ev-database.org/car/1814/ORA-Funky-Cat-63-kWh,174,240.0,44490.0,340,160,8.2,ORA
+89.0,Mercedes EQE 350,https://ev-database.org/car/1898/Mercedes-EQE-350,173,650.0,70995.0,515,210,6.4,Mercedes
+89.0,Audi Q8 e-tron Sportback 50 quattro,https://ev-database.org/car/1771/Audi-Q8-e-tron-Sportback-50-quattro,200,690.0,76650.0,445,200,6.0,Audi
+37.3,Fiat 500e 3+1 42 kWh,https://ev-database.org/car/1328/Fiat-500e-3plus1-42-kWh,159,390.0,36990.0,235,150,9.0,Fiat
+77.0,Audi Q4 e-tron 45 quattro,https://ev-database.org/car/2014/Audi-Q4-e-tron-45-quattro,195,590.0,54950.0,395,180,6.6,Audi
+70.5,NIO ET5 75 kWh,https://ev-database.org/car/1786/NIO-ET5-75-kWh,178,530.0,59500.0,395,200,4.0,NIO
+37.0,Mini Cooper E,https://ev-database.org/car/1997/Mini-Cooper-E,157,360.0,56942.0,235,160,7.3,Mini
+74.0,Genesis GV70 Electrified Sport,https://ev-database.org/car/1725/Genesis-GV70-Electrified-Sport,211,860.0,67300.0,350,235,4.2,Genesis
+66.5,Mercedes EQB 350 4MATIC,https://ev-database.org/car/1990/Mercedes-EQB-350-4MATIC,193,500.0,58197.0,345,160,6.2,Mercedes
+73.0,Peugeot e-3008 73 kWh Dual Motor,https://ev-database.org/car/2004/Peugeot-e-3008-73-kWh-Dual-Motor,190,440.0,56942.0,385,180,6.0,Peugeot
+108.4,Mercedes EQS AMG 53 4MATIC+,https://ev-database.org/car/2012/Mercedes-EQS-AMG-53-4MATICplus,203,800.0,155009.0,535,250,3.4,Mercedes
+70.5,NIO ET5 Touring 75 kWh,https://ev-database.org/car/1915/NIO-ET5-Touring-75-kWh,183,520.0,59500.0,385,200,4.0,NIO
+90.6,Mercedes EQE SUV 350 4MATIC,https://ev-database.org/car/2047/Mercedes-EQE-SUV-350-4MATIC,208,550.0,89548.0,435,210,6.6,Mercedes
+77.0,Audi Q4 Sportback e-tron 55 quattro,https://ev-database.org/car/2018/Audi-Q4-Sportback-e-tron-55-quattro,186,620.0,61000.0,415,180,5.4,Audi
+77.0,Skoda Enyaq RS,https://ev-database.org/car/2022/Skoda-Enyaq-RS,177,650.0,61050.0,435,180,5.5,Skoda
+82.5,Genesis G80 Electrified Luxury,https://ev-database.org/car/1703/Genesis-G80-Electrified-Luxury,188,880.0,69200.0,440,225,4.9,Genesis
+58.0,CUPRA Born 170 kW - 58 kWh,https://ev-database.org/car/1517/CUPRA-Born-170-kW---58-kWh,168,460.0,40750.0,345,160,6.6,CUPRA
+71.0,Porsche Taycan,https://ev-database.org/car/1923/Porsche-Taycan,169,1030.0,93139.0,420,230,5.4,Porsche
+108.4,Mercedes EQS SUV 500 4MATIC,https://ev-database.org/car/1795/Mercedes-EQS-SUV-500-4MATIC,221,730.0,124545.0,490,210,5.2,Mercedes
+46.3,Peugeot e-208 50 kWh,https://ev-database.org/car/1948/Peugeot-e-208-50-kWh,160,460.0,56942.0,290,150,9.0,Peugeot
+27.0,e.Go e.wave X,https://ev-database.org/car/1896/eGo-ewave-X,180,520.0,24990.0,150,135,12.0,e.Go
+45.0,Mercedes EQT 200 Standard,https://ev-database.org/car/1908/Mercedes-EQT-200-Standard,200,230.0,49445.0,225,132,12.6,Mercedes
+72.6,Ford Mustang Mach-E SR AWD,https://ev-database.org/car/2036/Ford-Mustang-Mach-E-SR-AWD,207,430.0,56942.0,350,180,6.2,Ford
+64.0,Lexus UX 300e,https://ev-database.org/car/1943/Lexus-UX-300e,188,170.0,56942.0,340,160,7.5,Lexus
+108.4,Mercedes EQS 500 4MATIC,https://ev-database.org/car/2010/Mercedes-EQS-500-4MATIC,184,880.0,125378.0,590,210,4.8,Mercedes
+83.7,Porsche Taycan 4S Plus,https://ev-database.org/car/1926/Porsche-Taycan-4S-Plus,174,1180.0,120081.0,480,250,4.0,Porsche
+90.6,Mercedes EQE 500 4MATIC,https://ev-database.org/car/1900/Mercedes-EQE-500-4MATIC,179,750.0,88215.0,505,210,4.7,Mercedes
+83.7,Porsche Taycan 4 Cross Turismo,https://ev-database.org/car/1929/Porsche-Taycan-4-Cross-Turismo,190,1080.0,103254.0,440,220,5.1,Porsche
+81.0,Elaris BEO 86 kWh,https://ev-database.org/car/1975/Elaris-BEO-86-kWh,208,290.0,53090.0,390,150,8.0,Elaris
+108.4,Mercedes EQS SUV 450 4MATIC,https://ev-database.org/car/1674/Mercedes-EQS-SUV-450-4MATIC,221,730.0,114609.0,490,210,6.0,Mercedes
+87.0,Nissan Ariya e-4ORCE 87kWh - 290 kW,https://ev-database.org/car/1305/Nissan-Ariya-e-4ORCE-87kWh---290-kW,215,480.0,71490.0,405,200,5.1,Nissan
+68.0,Opel Vivaro-e Combi M 75 kWh,https://ev-database.org/car/1602/Opel-Vivaro-e-Combi-M-75-kWh,257,290.0,56942.0,265,130,13.3,Opel
+76.6,Audi Q4 Sportback e-tron 50 quattro,https://ev-database.org/car/1492/Audi-Q4-Sportback-e-tron-50-quattro,192,570.0,56942.0,400,180,6.2,Audi
+59.3,ORA Funky Cat GT,https://ev-database.org/car/1815/ORA-Funky-Cat-GT,180,230.0,49490.0,330,160,8.2,ORA
+90.6,Mercedes EQE SUV 300,https://ev-database.org/car/2045/Mercedes-EQE-SUV-300,201,570.0,83479.0,450,210,7.6,Mercedes
+106.0,Audi SQ8 e-tron Sportback,https://ev-database.org/car/1774/Audi-SQ8-e-tron-Sportback,221,610.0,98050.0,480,210,4.5,Audi
+77.0,Audi Q4 Sportback e-tron 45 quattro,https://ev-database.org/car/2017/Audi-Q4-Sportback-e-tron-45-quattro,186,620.0,56950.0,415,180,6.6,Audi
+82.7,XPENG P7 AWD Performance,https://ev-database.org/car/1822/XPENG-P7-AWD-Performance,180,640.0,56942.0,460,200,4.1,XPENG
+62.0,Smart #1 Pulse,https://ev-database.org/car/1920/Smart-1-Pulse,194,490.0,46490.0,320,180,3.9,Smart
+46.3,Toyota Proace City Verso Electric L1 50 kWh,https://ev-database.org/car/1779/Toyota-Proace-City-Verso-Electric-L1-50-kWh,220,330.0,37800.0,210,135,11.2,Toyota
+58.0,Skoda Enyaq Coupe 60,https://ev-database.org/car/2023/Skoda-Enyaq-Coupe-60,163,480.0,56942.0,355,160,8.8,Skoda
+37.3,Fiat 500e Cabrio 42 kWh,https://ev-database.org/car/1275/Fiat-500e-Cabrio-42-kWh,162,380.0,37990.0,230,150,9.0,Fiat
+90.6,Mercedes EQE SUV AMG 43 4MATIC,https://ev-database.org/car/1763/Mercedes-EQE-SUV-AMG-43-4MATIC,218,620.0,124920.0,415,210,4.3,Mercedes
+68.0,Toyota PROACE Verso M 75 kWh,https://ev-database.org/car/1514/Toyota-PROACE-Verso-M-75-kWh,257,290.0,64530.0,265,130,13.1,Toyota
+46.3,Toyota Proace City Verso Electric L2 50 kWh,https://ev-database.org/car/1780/Toyota-Proace-City-Verso-Electric-L2-50-kWh,226,330.0,40150.0,205,135,11.2,Toyota
+71.0,Porsche Taycan 4S,https://ev-database.org/car/1925/Porsche-Taycan-4S,171,1020.0,114559.0,415,250,4.0,Porsche
+87.7,VinFast VF 8 Eco Extended Range,https://ev-database.org/car/1807/VinFast-VF-8-Eco-Extended-Range,206,550.0,52990.0,425,200,5.9,VinFast
+90.6,Mercedes EQE AMG 43 4MATIC,https://ev-database.org/car/1901/Mercedes-EQE-AMG-43-4MATIC,195,690.0,104756.0,465,210,4.2,Mercedes
+66.5,Mercedes EQA 300 4MATIC,https://ev-database.org/car/1986/Mercedes-EQA-300-4MATIC,187,510.0,53520.0,355,160,7.7,Mercedes
+21.3,Fiat 500e 3+1 24 kWh,https://ev-database.org/car/1726/Fiat-500e-3plus1-24-kWh,158,230.0,56942.0,135,135,9.0,Fiat
+46.3,Citroen e-SpaceTourer M 50 kWh,https://ev-database.org/car/1341/Citroen-e-SpaceTourer-M-50-kWh,250,290.0,53640.0,185,130,12.1,Citroen
+37.8,Abarth 500e Hatchback,https://ev-database.org/car/1903/Abarth-500e-Hatchback,168,370.0,37990.0,225,155,7.0,Abarth
+90.6,Mercedes EQE SUV AMG 53 4MATIC+,https://ev-database.org/car/1764/Mercedes-EQE-SUV-AMG-53-4MATICplus,221,610.0,139438.0,410,240,3.5,Mercedes
+68.0,Opel Zafira-e Life L 75 kWh,https://ev-database.org/car/1349/Opel-Zafira-e-Life-L-75-kWh,262,280.0,70075.0,260,130,13.3,Opel
+60.0,Aiways U6,https://ev-database.org/car/1766/Aiways-U6,171,430.0,47588.0,350,160,7.0,Aiways
+68.0,Toyota PROACE Verso L 75 kWh,https://ev-database.org/car/1515/Toyota-PROACE-Verso-L-75-kWh,262,280.0,65385.0,260,130,13.1,Toyota
+70.5,NIO EL6 75 kWh,https://ev-database.org/car/1921/NIO-EL6-75-kWh,201,470.0,65500.0,350,200,4.5,NIO
+39.2,Kia e-Soul 39.2 kWh,https://ev-database.org/car/1750/Kia-e-Soul-392-kWh,170,200.0,56942.0,230,157,9.9,Kia
+46.3,Opel Combo-e Life 50 kWh,https://ev-database.org/car/1544/Opel-Combo-e-Life-50-kWh,226,330.0,43050.0,205,135,11.7,Opel
+68.0,Citroen e-Jumpy Combi M 75 kWh,https://ev-database.org/car/1597/Citroen-e-Jumpy-Combi-M-75-kWh,257,290.0,57940.0,265,130,13.3,Citroen
+90.6,Mercedes EQE AMG 53 4MATIC+,https://ev-database.org/car/1902/Mercedes-EQE-AMG-53-4MATICplus,195,690.0,110706.0,465,220,3.5,Mercedes
+90.0,Mercedes eVito Tourer Extra-Long 90 kWh,https://ev-database.org/car/1616/Mercedes-eVito-Tourer-Extra-Long-90-kWh,295,310.0,65140.0,305,160,12.0,Mercedes
+83.7,Porsche Taycan Turbo,https://ev-database.org/car/1927/Porsche-Taycan-Turbo,188,1090.0,164420.0,445,260,3.2,Porsche
+68.0,Peugeot e-Expert Combi Standard 75 kWh,https://ev-database.org/car/1607/Peugeot-e-Expert-Combi-Standard-75-kWh,257,290.0,57940.0,265,130,14.3,Peugeot
+46.3,Peugeot e-Rifter Standard 50 kWh,https://ev-database.org/car/1522/Peugeot-e-Rifter-Standard-50-kWh,226,330.0,41240.0,205,135,11.7,Peugeot
+68.0,Peugeot e-Traveller Long 75 kWh,https://ev-database.org/car/1354/Peugeot-e-Traveller-Long-75-kWh,262,280.0,60430.0,260,130,14.3,Peugeot
+74.0,Genesis GV60 Sport,https://ev-database.org/car/1648/Genesis-GV60-Sport,195,990.0,63200.0,380,200,5.5,Genesis
+83.7,Porsche Taycan 4S Cross Turismo,https://ev-database.org/car/1930/Porsche-Taycan-4S-Cross-Turismo,190,1080.0,119914.0,440,240,4.1,Porsche
+87.7,VinFast VF 8 Plus Extended Range,https://ev-database.org/car/1809/VinFast-VF-8-Plus-Extended-Range,206,550.0,58890.0,425,200,5.5,VinFast
+71.0,Porsche Taycan Sport Turismo,https://ev-database.org/car/1621/Porsche-Taycan-Sport-Turismo,187,930.0,94091.0,380,230,5.4,Porsche
+60.0,Mercedes EQV 250 Long,https://ev-database.org/car/1542/Mercedes-EQV-250-Long,286,200.0,68056.0,210,160,12.0,Mercedes
+90.0,Mercedes EQV 300 Extra-Long,https://ev-database.org/car/1315/Mercedes-EQV-300-Extra-Long,290,310.0,72519.0,310,160,12.1,Mercedes
+60.0,Mercedes eVito Tourer Long 60 kWh,https://ev-database.org/car/1617/Mercedes-eVito-Tourer-Long-60-kWh,286,310.0,60678.0,210,160,12.0,Mercedes
+37.8,Abarth 500e Convertible,https://ev-database.org/car/1904/Abarth-500e-Convertible,168,370.0,40990.0,225,155,7.0,Abarth
+74.0,Genesis GV60 Sport Plus,https://ev-database.org/car/1649/Genesis-GV60-Sport-Plus,203,950.0,73100.0,365,235,4.0,Genesis
+28.9,Mini Cooper SE Convertible,https://ev-database.org/car/1827/Mini-Cooper-SE-Convertible,175,230.0,56942.0,165,150,8.2,Mini
+68.0,Citroen e-SpaceTourer M 75 kWh,https://ev-database.org/car/1343/Citroen-e-SpaceTourer-M-75-kWh,257,290.0,59640.0,265,130,13.3,Citroen
+70.5,NIO EL7 75 kWh,https://ev-database.org/car/1788/NIO-EL7-75-kWh,207,460.0,85900.0,340,200,3.9,NIO
+68.0,Peugeot e-Traveller Standard 75 kWh,https://ev-database.org/car/1353/Peugeot-e-Traveller-Standard-75-kWh,257,290.0,59640.0,265,130,14.3,Peugeot
+46.3,Peugeot e-Traveller Standard 50 kWh,https://ev-database.org/car/1351/Peugeot-e-Traveller-Standard-50-kWh,250,290.0,53640.0,185,130,13.1,Peugeot
+83.7,Porsche Taycan GTS Sport Turismo,https://ev-database.org/car/1561/Porsche-Taycan-GTS-Sport-Turismo,197,1050.0,140858.0,425,250,3.7,Porsche
+83.7,Porsche Taycan Turbo Cross Turismo,https://ev-database.org/car/1931/Porsche-Taycan-Turbo-Cross-Turismo,197,1050.0,165848.0,425,250,3.3,Porsche
+68.0,Peugeot e-Expert Combi Long 75 kWh,https://ev-database.org/car/1608/Peugeot-e-Expert-Combi-Long-75-kWh,262,280.0,58730.0,260,130,14.3,Peugeot
+68.0,Fiat E-Ulysse L3 75 kWh,https://ev-database.org/car/1724/Fiat-E-Ulysse-L3-75-kWh,262,280.0,62990.0,260,130,13.3,Fiat
+46.3,Citroen e-SpaceTourer XL 50 kWh,https://ev-database.org/car/1342/Citroen-e-SpaceTourer-XL-50-kWh,257,290.0,54430.0,180,130,12.1,Citroen
+83.7,Porsche Taycan Turbo S Cross Turismo,https://ev-database.org/car/1932/Porsche-Taycan-Turbo-S-Cross-Turismo,204,1010.0,199168.0,410,250,2.9,Porsche
+46.3,Citroen e-Berlingo XL 50 kWh,https://ev-database.org/car/1547/Citroen-e-Berlingo-XL-50-kWh,226,330.0,43640.0,205,135,11.7,Citroen
+21.3,Fiat 500e Cabrio 24 kWh,https://ev-database.org/car/1727/Fiat-500e-Cabrio-24-kWh,158,230.0,35490.0,135,135,9.0,Fiat
+83.7,Porsche Taycan Plus Sport Turismo,https://ev-database.org/car/1622/Porsche-Taycan-Plus-Sport-Turismo,188,1090.0,99815.0,445,230,5.4,Porsche
+68.0,Toyota PROACE Shuttle M 75 kWh,https://ev-database.org/car/1611/Toyota-PROACE-Shuttle-M-75-kWh,257,290.0,56942.0,265,130,13.1,Toyota
+46.3,Toyota PROACE Shuttle L 50 kWh,https://ev-database.org/car/1610/Toyota-PROACE-Shuttle-L-50-kWh,257,290.0,56942.0,180,130,12.1,Toyota
+83.7,Porsche Taycan Turbo S Sport Turismo,https://ev-database.org/car/1626/Porsche-Taycan-Turbo-S-Sport-Turismo,212,970.0,198692.0,395,260,2.8,Porsche
+68.0,Citroen e-SpaceTourer XL 75 kWh,https://ev-database.org/car/1344/Citroen-e-SpaceTourer-XL-75-kWh,262,280.0,60430.0,260,130,13.3,Citroen
+46.3,Citroen e-Jumpy Combi M 50 kWh,https://ev-database.org/car/1595/Citroen-e-Jumpy-Combi-M-50-kWh,250,290.0,51940.0,185,130,12.1,Citroen
+46.3,Opel Zafira-e Life M 50 kWh,https://ev-database.org/car/1346/Opel-Zafira-e-Life-M-50-kWh,250,290.0,63250.0,185,130,12.1,Opel
+68.0,Toyota PROACE Shuttle L 75 kWh,https://ev-database.org/car/1612/Toyota-PROACE-Shuttle-L-75-kWh,262,280.0,56942.0,260,130,13.1,Toyota
+68.0,Citroen e-Jumpy Combi XL 75 kWh,https://ev-database.org/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh,262,280.0,58730.0,260,130,13.3,Citroen
+83.7,Porsche Taycan 4S Plus Sport Turismo,https://ev-database.org/car/1624/Porsche-Taycan-4S-Plus-Sport-Turismo,195,1060.0,120081.0,430,250,4.0,Porsche
+46.3,Opel Combo-e Life XL 50 kWh,https://ev-database.org/car/1545/Opel-Combo-e-Life-XL-50-kWh,232,320.0,44750.0,200,135,11.7,Opel
+46.3,Toyota PROACE Shuttle M 50 kWh,https://ev-database.org/car/1609/Toyota-PROACE-Shuttle-M-50-kWh,250,290.0,56942.0,185,130,12.1,Toyota
+71.0,Porsche Taycan 4S Sport Turismo,https://ev-database.org/car/1623/Porsche-Taycan-4S-Sport-Turismo,192,910.0,114559.0,370,250,4.0,Porsche
+46.3,Peugeot e-Expert Combi Standard 50 kWh,https://ev-database.org/car/1605/Peugeot-e-Expert-Combi-Standard-50-kWh,250,290.0,51940.0,185,130,13.1,Peugeot
+60.0,Mercedes eVito Tourer Extra-Long 60 kWh,https://ev-database.org/car/1618/Mercedes-eVito-Tourer-Extra-Long-60-kWh,293,300.0,61571.0,205,160,12.0,Mercedes
+46.3,Peugeot e-Traveller Long 50 kWh,https://ev-database.org/car/1352/Peugeot-e-Traveller-Long-50-kWh,250,290.0,54430.0,185,130,13.1,Peugeot
+68.0,Fiat E-Ulysse L2 75 kWh,https://ev-database.org/car/1722/Fiat-E-Ulysse-L2-75-kWh,257,290.0,61990.0,265,130,13.3,Fiat
+83.7,Porsche Taycan Turbo Sport Turismo,https://ev-database.org/car/1625/Porsche-Taycan-Turbo-Sport-Turismo,207,1000.0,165372.0,405,260,3.2,Porsche
+60.0,Mercedes EQV 250 Extra-Long,https://ev-database.org/car/1543/Mercedes-EQV-250-Extra-Long,286,200.0,68949.0,210,160,12.0,Mercedes
+68.0,Opel Vivaro-e Combi L 75 kWh,https://ev-database.org/car/1603/Opel-Vivaro-e-Combi-L-75-kWh,262,280.0,57775.0,260,130,13.3,Opel
+46.3,Opel Vivaro-e Combi M 50 kWh,https://ev-database.org/car/1600/Opel-Vivaro-e-Combi-M-50-kWh,250,290.0,50992.0,185,130,12.1,Opel
+46.3,Opel Zafira-e Life L 50 kWh,https://ev-database.org/car/1347/Opel-Zafira-e-Life-L-50-kWh,257,290.0,64075.0,180,130,12.1,Opel
+46.3,Peugeot e-Expert Combi Long 50 kWh,https://ev-database.org/car/1606/Peugeot-e-Expert-Combi-Long-50-kWh,250,290.0,52730.0,185,130,13.1,Peugeot
+46.3,Citroen e-Jumpy Combi XL 50 kWh,https://ev-database.org/car/1596/Citroen-e-Jumpy-Combi-XL-50-kWh,257,290.0,52730.0,180,130,12.1,Citroen
+46.3,Fiat E-Ulysse L2 50 kWh,https://ev-database.org/car/1721/Fiat-E-Ulysse-L2-50-kWh,250,290.0,55990.0,185,130,12.1,Fiat
+46.3,Opel Vivaro-e Combi L 50 kWh,https://ev-database.org/car/1601/Opel-Vivaro-e-Combi-L-50-kWh,257,290.0,51825.0,180,130,12.1,Opel
+68.0,Opel Zafira-e Life M 75 kWh,https://ev-database.org/car/1348/Opel-Zafira-e-Life-M-75-kWh,257,290.0,69250.0,265,130,13.3,Opel
+46.3,Fiat E-Ulysse L3 50 kWh,https://ev-database.org/car/1723/Fiat-E-Ulysse-L3-50-kWh,257,290.0,56990.0,180,130,12.1,Fiat

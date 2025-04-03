@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}EV Data Analysis{% endblock %}
+
+{% block content %}
+    <h1>📊 EV Data Analysis</h1>
+    <p>Explore interactive graphs on EV pricing, range, and acceleration.</p>
+
+    <div id="graph-price-vs-range" style="width: 100%; height: 500px;"></div>
+    <div id="graph-acceleration" style="width: 100%; height: 500px;"></div>
+
+    <script src="https://cdn.plot.ly/plotly-2.30.0.min.js"></script>
+    <script>
+        var graphs = {{ graphs | tojson | safe }};
+
+        try {
+            Plotly.newPlot("graph-price-vs-range", JSON.parse(graphs.price_vs_range).data, JSON.parse(graphs.price_vs_range).layout);
+            Plotly.newPlot("graph-acceleration", JSON.parse(graphs.acceleration).data, JSON.parse(graphs.acceleration).layout);
+        } catch (error) {
+            console.error("❌ Plotly Error:", error);
+        }
+    </script>
+
+    <style>
+        div[id^="graph-"] {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+        }
+    </style>
+
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Charging Station Map{% endblock %}
+
+{% block content %}
+<h1>🗺️ EV Charging Stations</h1>
+<p>Live map of public EV charging stations in Ireland.</p>
+
+<iframe src="{{ url_for('static', filename='charging_map.html') }}"
+        width="100%" height="600" style="border:none; border-radius: 10px;"></iframe>
+{% endblock %}

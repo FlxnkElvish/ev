@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EV Finder Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+
+    <h1>🔍 EV Search Results</h1>
+
+
+    <div id="liked-ev">
+        <h2>🔥 Most Searched EVs</h2>
+        <p>Loading...</p>
+    </div>
+
+    {% if cars %}
+        <h2>✅ Matching EVs</h2>
+        <table>
+            <tr>
+                <th>Model</th>
+                <th>Brand</th>
+                <th>Range (km)</th>
+                <th>Price (€)</th>
+                <th>Fast Charging (kW)</th>
+                <th>❤️ Like</th>
+            </tr>
+            {% for car in cars %}
+            <tr>
+                <td>{{ car["Car_name"] }}</td>
+                <td>{{ car["Brand"] }}</td>
+                <td>{{ car["Range"] }}</td>
+                <td>{{ car["Price.DE."] }}</td>
+                <td>{{ car["Fast_charge"] }}</td>
+                <td><button class="like-button" data-car="{{ car['Car_name'] }}">❤️ Like</button></td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p style="color: red;">❌ No EVs match your filters. Try adjusting them.</p>
+    {% endif %}
+
+    <h2>💖 Most Liked EVs</h2>
+    {% if most_liked_evs %}
+        <table>
+            <tr>
+                <th>🏆 Rank</th>
+                <th>🚗 Car Model</th>
+                <th>❤️ Likes</th>
+            </tr>
+            {% for ev in most_liked_evs %}
+            <tr>
+                <td>{{ loop.index }}</td> 
+                <td>{{ ev["Car_name"] }}</td>
+                <td>{{ ev["Likes"] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>No liked EVs yet. Start liking your favorites!</p>
+    {% endif %}
+
+<div id="likePopupOverlay" class="popup-overlay"></div>
+
+
+<style>
+
+    .popup-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 999;
+    }
+
+    .popup {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: white;
+        padding: 20px;
+        box-shadow: 0px 0px 10px 0px #000;
+        z-index: 1000;
+        text-align: center;
+        border-radius: 10px;
+    }
+
+    .popup-content {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .close {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    .popup-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .popup-buttons button {
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        font-size: 16px;
+        border-radius: 5px;
+    }
+
+    .popup-buttons button:first-child {
+        background: green;
+        color: white;
+    }
+
+    .popup-buttons button:last-child {
+        background: red;
+        color: white;
+    }
+</style>
+
+    <script>
+        function openLikePopup(carName) {
+            document.getElementById("popupCarName").textContent = `Liking: ${carName}`;
+            document.getElementById("likePopup").style.display = "block";
+            document.getElementById("likePopupOverlay").style.display = "block";
+
+            document.getElementById("submitLike").onclick = function () {
+                const email = document.getElementById("likeEmail").value;
+                if (!email) {
+                    alert("Please enter your email!");
+                    return;
+                }
+
+                fetch("/like-ev", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ car_name: carName, email: email })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    alert(data.message);
+                    closeLikePopup();
+                })
+                .catch(error => {
+                    console.error("❌ Error liking EV:", error);
+                });
+            };
+        }
+
+        function closeLikePopup() {
+            document.getElementById("likePopup").style.display = "none";
+            document.getElementById("likePopupOverlay").style.display = "none";
+        }
+    </script>
+
+</body>
+</html>
